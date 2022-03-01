@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <math.h>
+int x;
+float y;
+main
+{
+printf ("enter X", &x);
+scanf ("%d");
+y=(x^2)+3;
+printf(" Y= ", &y);
+scanf("%f");
+}
